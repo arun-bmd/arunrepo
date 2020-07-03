@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 1, Errors: 0, Skipped: 20, Time elapsed: 7.962 s <<< FAILURE! - in TestSuite
+com.tieto.test.LoginTest.init[ff](0)  Time elapsed: 6.284 s  <<< FAILURE!
+java.io.FileNotFoundException: testdata.data.properties (The system cannot find the file specified)
+
